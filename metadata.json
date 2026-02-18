@@ -1,0 +1,5 @@
+{
+  "name": "MicroTaskHub",
+  "description": "A micro-job platform where users earn money by completing simple online tasks. Features a worker dashboard, admin panel, and AI-powered job assistance.",
+  "requestFramePermissions": []
+}
